@@ -9,7 +9,7 @@ The dashboard helps visualize sales performance, customer behavior, and product 
 
 📊 Dashboard Features
 1. KPI Summary
-# The top section displays key performance indicators:
+- The top section displays key performance indicators:
 * Total Revenue: 456K
 * Total Quantity Sold: 2514
 * Average Transaction Value: 456
@@ -28,7 +28,7 @@ These KPIs give a quick overall picture of business performance.
 
 
 4. Product Category Performance
-# Bar chart showing sales across categories:
+- Bar chart showing sales across categories:
 * Beauty
 * Clothing
 * Electronics
@@ -36,7 +36,7 @@ Helps understand which categories generate more revenue.
 
 
 5. Age Group vs. Spending
-# Bar chart grouped by age ranges:
+- Bar chart grouped by age ranges:
 * 18–25
 * 26–35
 * 36–50
@@ -57,7 +57,7 @@ Useful for identifying high-spending age segments.
 
 
 📂 Dataset Fields
-# The dataset includes:
+- The dataset includes:
 * Transaction ID
 * Date
 * Customer ID
@@ -69,12 +69,8 @@ Useful for identifying high-spending age segments.
 * Total Amount
 
 
-# Dashboard of the Retail Sales
-
-
-
 🎯 Purpose of This Project
-# This Power BI dashboard is created to:
+- This Power BI dashboard is created to:
 * Analyze sales patterns
 * Understand customer demographics
 * Compare product category performance
