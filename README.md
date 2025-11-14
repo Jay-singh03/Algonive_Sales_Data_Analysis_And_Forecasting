@@ -6,6 +6,7 @@ The dashboard helps visualize sales performance, customer behavior, and product 
 
 
 # The dashboard screenshot is included below:
+Link: https://github.com/Jay-singh03/Algonive_Sales_Data_Analysis_And_Forecasting/blob/main/Retail_Sales_Dashboard_ScreensShot.png
 
 📊 Dashboard Features
 1. KPI Summary
